@@ -85,7 +85,7 @@ PostgreSQL Setup Tutorials
 
 ---
 
-### Explanation of What You Did
+### Summary of What We Did
 1. Built a **Login system** to authenticate users securely.
 2. Integrated **JWT** for stateless authentication.
 3. Designed and implemented a **responsive Dashboard**.
@@ -96,11 +96,3 @@ PostgreSQL Setup Tutorials
 8. Uploaded the completed project to GitHub for public access.
 
 ---
-
-To include screenshots:
-1. Take clear screenshots of the Login and Dashboard pages.
-2. Save the images in a folder (e.g., `assets/screenshots`) in your project directory.
-3. Update the `README` file with the relative paths to the images (e.g., `![Login Page](assets/screenshots/login.png)`).
-
-Let me know if you need help refining the README or handling the image paths!
-
